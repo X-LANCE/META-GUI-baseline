@@ -1,5 +1,5 @@
 # META-GUI-baseline
-This repository contains the full pipeline to train and evaluate the baseline models in the paper [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) on the META-GUI dataset. The dataset and leaderboard can be found [here](https://x-lance.github.io/META-GUI-Leaderboard/).
+This repository contains the full pipeline to train and evaluate the baseline models in the paper [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) on the META-GUI dataset. The leaderboard can be found [here](https://x-lance.github.io/META-GUI-Leaderboard/). And the dataset can be found [here](https://huggingface.co/datasets/X-LANCE/META-GUI).
 
 ## Latest Experiment Result
 
